@@ -3,7 +3,7 @@ export const pages = [
     href: "/",
     titre: "Tableau de bord",
     description:
-      "Vue d'ensemble de votre second cerveau : l'essentiel de l'activité en un coup d'œil.",
+      "Tout ce que je sais sur le projet Atlas, au même endroit.",
   },
   {
     href: "/documents",
